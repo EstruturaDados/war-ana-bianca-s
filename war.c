@@ -107,6 +107,7 @@ void exibirTerritorios(const Territorio territorios[], int qtd) {
 }
 // Esta função modifica o mapa passado por referência (ponteiro).
 
+
 // liberarMemoria():
 // Libera a memória previamente alocada para o mapa usando free.
 
